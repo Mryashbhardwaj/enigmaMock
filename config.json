@@ -1,0 +1,12 @@
+{
+  "selected_rotors": [
+    "A","B","D"
+  ],
+  "rotor_slot_1_init_pos":22,
+  "rotor_slot_2_init_pos":1,
+  "rotor_slot_3_init_pos":25,
+  "plug_map": {
+    "b": "L",
+    "K": "H"
+  }
+}
